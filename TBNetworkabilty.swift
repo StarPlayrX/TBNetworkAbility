@@ -1,6 +1,6 @@
 //
-//  Networkabilty.swift
-//  StarPlayr
+//  TBNetworkabilty.swift
+//  TBNetworkabilty
 //
 //  Created by Todd on 5/2/19.
 //  Copyright © 2019 Todd Bruss. All rights reserved.
@@ -24,11 +24,7 @@ public class Networkability {
                 networkIsTripped = true
             }
             
-            //print("network is connected:" + String(networkIsConnected))
-
-            networkIsWiFi = path.usesInterfaceType(.wifi)
-            
-            //print("uses wifi:" + String(networkIsWiFi))
+            networkIsWiFi = path.usesInterfaceType(.wifi)            
         }
         
         let queue = DispatchQueue(label: "Monitor")
