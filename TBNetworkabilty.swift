@@ -13,7 +13,7 @@ var networkIsConnected = Bool()
 var networkIsWiFi = Bool()
 var networkIsTripped = false
 
-public class Networkability {
+public class TBNetworkability {
     
     func start() {
         
