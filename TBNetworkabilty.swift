@@ -1,8 +1,8 @@
 //
 //  TBNetworkabilty.swift
-//  TBNetworkabilty v0.1.1
+//  TBNetworkabilty v0.1.2
 //
-//  Created by Todd Bruss on 5/2/19.
+//  Created by Todd Bruss on 7/6/21.
 //  Copyright © 2019 Todd Bruss All rights reserved.
 //  https://StarPlayrX.com
 //
